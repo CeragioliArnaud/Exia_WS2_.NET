@@ -1,0 +1,9 @@
+C:\Users\arnaud\Documents\Visual Studio 2017\Projects\eXia_sln_WS2\CAD\bin\Debug\netstandard2.0\CAD.deps.json
+C:\Users\arnaud\Documents\Visual Studio 2017\Projects\eXia_sln_WS2\CAD\bin\Debug\netstandard2.0\CAD.dll
+C:\Users\arnaud\Documents\Visual Studio 2017\Projects\eXia_sln_WS2\CAD\bin\Debug\netstandard2.0\CAD.pdb
+C:\Users\arnaud\Documents\Visual Studio 2017\Projects\eXia_sln_WS2\CAD\obj\Debug\netstandard2.0\CAD.csprojAssemblyReference.cache
+C:\Users\arnaud\Documents\Visual Studio 2017\Projects\eXia_sln_WS2\CAD\obj\Debug\netstandard2.0\CAD.csproj.CoreCompileInputs.cache
+C:\Users\arnaud\Documents\Visual Studio 2017\Projects\eXia_sln_WS2\CAD\obj\Debug\netstandard2.0\CAD.AssemblyInfoInputs.cache
+C:\Users\arnaud\Documents\Visual Studio 2017\Projects\eXia_sln_WS2\CAD\obj\Debug\netstandard2.0\CAD.AssemblyInfo.cs
+C:\Users\arnaud\Documents\Visual Studio 2017\Projects\eXia_sln_WS2\CAD\obj\Debug\netstandard2.0\CAD.dll
+C:\Users\arnaud\Documents\Visual Studio 2017\Projects\eXia_sln_WS2\CAD\obj\Debug\netstandard2.0\CAD.pdb

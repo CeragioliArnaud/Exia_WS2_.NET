@@ -1,0 +1,9 @@
+C:\Users\arnaud\Documents\Visual Studio 2017\Projects\eXia_sln_WS2\MiddlewareTrue\bin\Debug\MiddlewareTrue.dll
+C:\Users\arnaud\Documents\Visual Studio 2017\Projects\eXia_sln_WS2\MiddlewareTrue\bin\Debug\MiddlewareTrue.pdb
+C:\Users\arnaud\Documents\Visual Studio 2017\Projects\eXia_sln_WS2\MiddlewareTrue\obj\Debug\MiddlewareTrue.csprojAssemblyReference.cache
+C:\Users\arnaud\Documents\Visual Studio 2017\Projects\eXia_sln_WS2\MiddlewareTrue\obj\Debug\MiddlewareTrue.csproj.CoreCompileInputs.cache
+C:\Users\arnaud\Documents\Visual Studio 2017\Projects\eXia_sln_WS2\MiddlewareTrue\obj\Debug\MiddlewareTrue.dll
+C:\Users\arnaud\Documents\Visual Studio 2017\Projects\eXia_sln_WS2\MiddlewareTrue\obj\Debug\MiddlewareTrue.pdb
+C:\Users\arnaud\Documents\Visual Studio 2017\Projects\eXia_sln_WS2\MiddlewareTrue\bin\Debug\CADTrue.dll
+C:\Users\arnaud\Documents\Visual Studio 2017\Projects\eXia_sln_WS2\MiddlewareTrue\bin\Debug\CADTrue.pdb
+C:\Users\arnaud\Documents\Visual Studio 2017\Projects\eXia_sln_WS2\MiddlewareTrue\obj\Debug\MiddlewareTrue.csproj.CopyComplete
